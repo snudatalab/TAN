@@ -57,7 +57,7 @@ source ae_train -> source v1_train -> target ae_train -> target mn_train -> targ
 ## Reference
 If you use this code, please cite the following paper.
 ```
-@article{DBLP:journals/kais/XuK21,
+@article{XuK21,
   author    = {Huiwen Xu and
                U Kang},
   title     = {Transfer Alignment Network for Blind Unsupervised Domain Adaptation},
