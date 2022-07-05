@@ -60,7 +60,7 @@ If you use this code, please cite the following paper.
 @article{DBLP:journals/kais/XuK21,
   author    = {Huiwen Xu and
                U Kang},
-  title     = {Transfer alignment network for blind unsupervised domain adaptation},
+  title     = {Transfer Alignment Network for Blind Unsupervised Domain Adaptation},
   journal   = {Knowl. Inf. Syst.},
   volume    = {63},
   number    = {11},
