@@ -53,3 +53,18 @@ source ae_train -> source v1_train -> target ae_train -> target mn_train -> targ
         * log files for step1, 3, 4 are loss, test loss, test_diff, test_rel_diff
         * log files for step2 is loss, test loss, test_accuracy, auc_roc, auc_pr
         * log files for test is test loss, test_accuracy, auc_roc, auc_pr
+
+## Reference
+If you use this code, please cite the following paper.
+```shell
+@article{DBLP:journals/kais/XuK21,
+  author    = {Huiwen Xu and
+               U Kang},
+  title     = {Transfer alignment network for blind unsupervised domain adaptation},
+  journal   = {Knowl. Inf. Syst.},
+  volume    = {63},
+  number    = {11},
+  pages     = {2861--2881},
+  year      = {2021}
+}
+```
